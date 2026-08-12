@@ -3,7 +3,7 @@
 # 🎓 FNB App Academy – Python Course
 
 Welcome to the **FNB App Academy Python Course Repository**!  
-This repo contains my solutions and practice files for a six‑unit self‑paced Python course designed to introduce the fundamentals of programming.
+This repo contains my solutions and practice files for a six‑unit, self‑paced Python course that introduces the fundamentals of programming.
 
 ---
 
@@ -41,7 +41,7 @@ FNB App Academy/
 
 ## 📖 Course Overview
 
-> *“This self‑paced course consists of six units designed to introduce you to the fundamental concepts of Python programming, from writing your first line of code to manipulating data, making decisions, and automating tasks.”*
+> *“This self‑paced course consists of six units designed to introduce you to the fundamental concepts of Python programming, from writing your first line of code to manipulating data, making [...]
 
 Each unit builds on the previous one, covering:
 - **Unit 1:** Introduction to Python basics  
